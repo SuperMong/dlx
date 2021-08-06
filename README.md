@@ -1,3 +1,3 @@
 # dlx
 
-Copy to "github.com/dimchansky/dlx"
+Copy from "github.com/dimchansky/dlx"
